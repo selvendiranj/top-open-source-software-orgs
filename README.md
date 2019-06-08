@@ -1,4 +1,5 @@
-# A curated list of awesome Oraganizations contributing to Open Source Softwares
+# A curated list of awesome Oraganizations contributing to Open Source Softwares on GitHub
+## [octoverse](https://octoverse.github.com/)
 
 1.	[Acquia](https://github.com/Acquia)
 2.	[Adobe](https://github.com/Adobe)
@@ -62,3 +63,11 @@
 60.	[WPEngine](https://github.com/WPEngine)
 61. [LinuxFoundation](https://www.linuxfoundation.org/projects/)
 62. [CloudNativeComputingFoundation](https://github.com/cncf)
+63. [Amazon](https://github.com/amzn)
+64. [AWS](https://github.com/aws)
+65. [NASA](https://github.com/nasa)
+66. [Apple](https://github.com/Apple)
+67. [Alibaba](https://github.com/Alibaba)
+68. [AlibabaCloud](https://github.com/aliyun)
+69. [TheApacheSoftwareFoundation](https://github.com/Apache)
+70. [NodeJs](https://github.com/NodeJs)
