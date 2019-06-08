@@ -76,3 +76,4 @@
 73. [NVIDIA](https://github.com/NVIDIA)
 74. [EclipseFoundation](https://github.com/eclipse)
 75. [SAP](https://github.com/SAP)
+76. [VMware](https://github.com/VMware)
