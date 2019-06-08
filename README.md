@@ -1,4 +1,4 @@
-# top-open-source-orgs
+# A curated list of awesome Oraganizations contributing to Open Source Softwares
 
 1.	[Acquia](https://github.com/Acquia)
 2.	[Adobe](https://github.com/Adobe)
