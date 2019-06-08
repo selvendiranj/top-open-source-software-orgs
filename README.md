@@ -60,3 +60,5 @@
 58.	[Talend](https://github.com/Talend)
 59.	[Twitter](https://github.com/Twitter)
 60.	[WPEngine](https://github.com/WPEngine)
+61. [LinuxFoundation](https://www.linuxfoundation.org/projects/)
+62. [CloudNativeComputingFoundation](https://github.com/cncf)
