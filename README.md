@@ -77,3 +77,6 @@
 74.	[Uber](https://github.com/uber)
 75.	[VMware](https://github.com/VMware)
 76.	[WPEngine](https://github.com/WPEngine)
+77. [Exceptionless](https://github.com/exceptionless)
+78. [Sentry](https://github.com/getsentry)
+
