@@ -1,5 +1,5 @@
 # A curated list of awesome Oraganizations contributing to Open Source Softwares on GitHub
-## [octoverse](https://octoverse.github.com/)
+## [Octoverse](https://octoverse.github.com/)
 
 1.	[Acquia](https://github.com/Acquia)
 2.	[Adobe](https://github.com/Adobe)
