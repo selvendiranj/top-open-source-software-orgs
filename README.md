@@ -82,3 +82,4 @@
 79. [SonarSource](https://github.com/SonarSource)
 80. [NET Foundation](https://github.com/dotnet)
 81. [Bitnami](https://github.com/bitnami)
+82. [CoreOS](https://github.com/coreos)
