@@ -83,3 +83,5 @@
 80. [NET Foundation](https://github.com/dotnet)
 81. [Bitnami](https://github.com/bitnami)
 82. [CoreOS](https://github.com/coreos)
+83. [Atom](https://github.com/github)
+84. [Atom](https://github.com/atom)
