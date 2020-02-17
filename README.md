@@ -82,3 +82,4 @@
 82. [Uber](https://github.com/uber)
 83. [VMware](https://github.com/VMware)
 84. [WPEngine](https://github.com/WPEngine)
+85. [Stackify](https://github.com/stackify)
