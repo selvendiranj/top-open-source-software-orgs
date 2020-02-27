@@ -83,3 +83,4 @@
 83. [VMware](https://github.com/VMware)
 84. [WPEngine](https://github.com/WPEngine)
 85. [Stackify](https://github.com/stackify)
+86. [VMware Tanzu](https://github.com/vmware-tanzu)
