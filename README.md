@@ -85,3 +85,5 @@
 85. [Stackify](https://github.com/stackify)
 86. [VMware Tanzu](https://github.com/vmware-tanzu)
 87. [Cloud Foundry](https://github.com/cloudfoundry)
+88. [Vaadin](https://github.com/vaadin)
+89. [Liferay](https://github.com/liferay)
